@@ -2,7 +2,7 @@
 
 **This python written program uses the Auto-Code API to grab and display Halo Infinite user information.**
 
-Auto-Code API : https://autocode.com/lib/halo/infinite/
+**Auto-Code API :** https://autocode.com/lib/halo/infinite/
 
 **Instructions**
 
